@@ -1,0 +1,10 @@
+{
+  "name": "boilerplate-ts-cli",
+  "version": "1.0.0",
+  "description": "tsのcliツールの雛形",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
